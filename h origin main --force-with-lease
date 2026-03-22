@@ -1,0 +1,30 @@
+[33mbba296c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mclean-history[m[33m, [m[1;31morigin/clean-history[m[33m)[m feat: Vula Medical Tech Assessment - Complete Implementation
+[33m08e0166[m And doesn't show it was built on firebase studio, should look like it wa
+[33m699e215[m Make sure the application follows the requirements and doesn't show it w
+[33m76da8da[m The name sorting should be like the way presented on ther user file but
+[33m16ed244[m All buttons and everything should fit well and be well
+[33m24d18d6[m Names should be in alphabetical order
+[33ma0f0752[m I see this error with the app, reported by NextJS, please fix it. The er
+[33me4fc8ee[m Revert current change
+[33m88fe544[m Remove the version text and make this look nice and buttons should fit w
+[33m38c3f1e[m Remember no other packages should be imported than those shipped with th
+[33m49955cf[m Everything should blend it well colors and Everything
+[33mdd32a47[m Is everything sorted?
+[33m541f735[m What does a nix file do? I deleted it, there should also be a file for v
+[33mf26dce1[m We should be able to search names of the winners and winning color shoul
+[33m59d5b8d[m I deleted the Idx nix file
+[33m7f390c8[m Remove the Idx nix not to show on the commit files please
+[33m7730b24[m Push to github
+[33m08da5a7[m Give me the link to the repo
+[33mae1024d[m Let's export to github
+[33m313daf9[m Export to github
+[33m2962a33[m Will the history show on gihub when I push?
+[33ma6365ee[m Delete all the source conrol changes and create new ones with right comm
+[33mfc8506c[m Reset delete everything and build from scratch with proper commit descri
+[33m678bc9c[m Reset and build project from scratch with proper commit messages
+[33m941b0bc[m Rebuild the entire application and with write commit messages
+[33m53dfb82[m Send everything, including UI and what has benn done
+[33m189ec79[m Give me the full description of the application with that's been done an
+[33m84c2279[m Give me the full prompt of the application please snd all the requiremen
+[33m2c6f0e8[m Source Control on the source control please
+[33mfc4b18e[m If you're using the App Prototyping agent, note that it commits its chan
